@@ -14,7 +14,7 @@ ColorQuest is a web-based game where players test their color recognition skills
 
 ## How to Play
 
-1. Visit the [ColorQuest Game](#link-to-your-game).
+1. Visit the [ColorQuest Game](https://dapper-mousse-ec7bf0.netlify.app/).
 2. The game will generate a random RGB color code.
 3. Choose the correct color from the options provided.
 4. Earn points for correct guesses, but be careful—wrong guesses reset your score!
