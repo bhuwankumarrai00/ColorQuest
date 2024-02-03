@@ -22,7 +22,7 @@ ColorQuest is a web-based game where players test their color recognition skills
 
 ## Installation
 
-No installation is required. Simply visit the [ColorQuest Game](#link-to-your-game) in your web browser to start playing.
+No installation is required. Simply visit the [ColorQuest Game](https://dapper-mousse-ec7bf0.netlify.app/) in your web browser to start playing.
 
 ## Technologies Used
 
@@ -34,13 +34,7 @@ No installation is required. Simply visit the [ColorQuest Game](#link-to-your-ga
 
 If you'd like to contribute to ColorQuest, feel free to fork the repository and submit a pull request with your improvements. We welcome any suggestions, bug reports, or feature requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 ## Acknowledgments
-
-- Special thanks to [Name of Any External Libraries or Resources Used].
 - Inspired by the love for colors and coding!
 
 Happy playing!
