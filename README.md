@@ -22,7 +22,7 @@ ColorQuest is a web-based game where players test their color recognition skills
 
 ## Installation
 
-No installation is required. Simply visit the [ColorQuest Game](#https://dapper-mousse-ec7bf0.netlify.app/) in your web browser to start playing.
+No installation is required. Simply visit the [ColorQuest Game](https://dapper-mousse-ec7bf0.netlify.app/) in your web browser to start playing.
 
 ## Technologies Used
 
